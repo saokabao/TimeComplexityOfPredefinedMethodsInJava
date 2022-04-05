@@ -34,6 +34,7 @@ Queue/Deque/Circular Queue:
 Insert: O(1)
 Remove: O(1)
 Size: O(1)
+Contains: ?-todo
 
 Binary Search Tree:
 Insert, delete and search: Average case: O(log n), Worst Case: O(n)
